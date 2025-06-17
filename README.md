@@ -45,10 +45,10 @@ The DDC breaks books into ten general categories denoted by three digit numerica
     * Used for the “==” operator.
 
 * 700:
-    * Used for a left parentheses.
+    * Used for left parentheses.
 
 * 800:
-    * Used for a right parentheses.
+    * Used for right parentheses.
 
 * 900:
     * Used to declare multiline statements.
