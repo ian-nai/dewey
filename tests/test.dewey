@@ -1,0 +1,22 @@
+140.100 Abc # var abc = 100 
+900.012 # the following 12 lines are part of a multiline statement
+301.000 #  if 
+710.123 # (abc
+501.2 # * 2
+800.000 # )
+401.000 # +
+700.000 # (
+250.200 # 200
+502.2 # / 2
+800.000 # )
+501.3 # * 3
+600.500:12 #  == 500:
+010.85 llo # print(hello)
+
+900.006 # multiline
+010.000 # print
+700.000 # (
+217.85 llo # "hello "
+401.000 # +
+261.23 orld # "world"
+800.000 # )
